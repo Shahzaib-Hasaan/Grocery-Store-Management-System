@@ -1,0 +1,33 @@
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Grocery Store.exe
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Grocery Store.deps.json
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Grocery Store.runtimeconfig.json
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Grocery Store.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Grocery Store.pdb
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\Guna.UI2.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\System.Management.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.csproj.AssemblyReference.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.AdminLogin.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Billing.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Employees.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Items.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Login.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Properties.Resources.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery_Store.Splash.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.csproj.GenerateResource.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.AssemblyInfoInputs.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.AssemblyInfo.cs
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.csproj.CoreCompileInputs.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.csproj.CopyComplete
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.dll
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\refint\Grocery Store.dll
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.pdb
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\Grocery Store.genruntimeconfig.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Release\net6.0-windows\ref\Grocery Store.dll

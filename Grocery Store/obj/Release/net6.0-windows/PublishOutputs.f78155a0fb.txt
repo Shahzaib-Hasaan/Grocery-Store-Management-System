@@ -1,0 +1,14 @@
+C:\Users\Mysterious Soul\Desktop\App\Grocery Store.exe
+C:\Users\Mysterious Soul\Desktop\App\Grocery Store.dll
+C:\Users\Mysterious Soul\Desktop\App\Grocery Store.deps.json
+C:\Users\Mysterious Soul\Desktop\App\Grocery Store.runtimeconfig.json
+C:\Users\Mysterious Soul\Desktop\App\Grocery Store.pdb
+C:\Users\Mysterious Soul\Desktop\App\Guna.UI2.dll
+C:\Users\Mysterious Soul\Desktop\App\System.Data.SqlClient.dll
+C:\Users\Mysterious Soul\Desktop\App\System.Management.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\win-arm64\native\sni.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\win-x64\native\sni.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\win-x86\native\sni.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mysterious Soul\Desktop\App\runtimes\win\lib\net6.0\System.Management.dll

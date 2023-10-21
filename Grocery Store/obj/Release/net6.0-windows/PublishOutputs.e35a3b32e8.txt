@@ -1,0 +1,14 @@
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Grocery Store.exe
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Grocery Store.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Grocery Store.deps.json
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Grocery Store.runtimeconfig.json
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Grocery Store.pdb
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\Guna.UI2.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\System.Management.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Grocery Store\Grocery Store\Grocery Store\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\net6.0\System.Management.dll

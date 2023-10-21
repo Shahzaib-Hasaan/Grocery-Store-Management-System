@@ -1,0 +1,12 @@
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.csproj.AssemblyReference.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Billing.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Employees.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Items.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Login.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Properties.Resources.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery_Store.Splash.resources
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.csproj.GenerateResource.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.AssemblyInfoInputs.cache
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.AssemblyInfo.cs
+D:\Grocery Store\Grocery Store\Grocery Store\obj\Debug\net5.0-windows\Grocery Store.csproj.CoreCompileInputs.cache
